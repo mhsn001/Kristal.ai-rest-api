@@ -8,7 +8,7 @@
   
   
    <properties>
-        <springframework.version>4.3.0.RELEASE</springframework.version>
+        <springframework.version>5.2.1.RELEASE</springframework.version>
         <jackson.library>2.7.5</jackson.library>
    <maven.compiler.source>1.8</maven.compiler.source>
       <maven.compiler.target>1.8</maven.compiler.target>
